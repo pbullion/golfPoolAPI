@@ -1,0 +1,10 @@
+
+.idea/
+node_modules/
+
+secrets/passwords.txt
+
+secrets/
+
+bin/sql
+bin/configuredb.sh
