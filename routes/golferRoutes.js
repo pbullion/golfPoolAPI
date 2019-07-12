@@ -9,13 +9,15 @@ router.get("/tournament-field/:tournamentID", (request, response, next) => {
   let tournamentID = request.params.tournamentID;
   axios
     .get(
-      `http://api.sportradar.us/golf-t2/players/wgr/2019/rankings.json?api_key=5mw47fy7qubzt6sg5q4pfud8`
+      `http://api.sportradar.us/golf-t2/players/wgr/2019/rankings.json?api_key=xx3bxhsyztpka6y53y3563r9`
     )
     .then(rankingsResponse => {
-      console.log(rankingsResponse.data.players.length);
+      console.log("rankings length", rankingsResponse.data.players.length);
+      console.log("tournament id", tournamentID);
+      setTimeout(() =>
       axios
         .get(
-          `http://api.sportradar.us/golf-t2/summary/pga/2019/tournaments/${tournamentID}/summary.json?api_key=5mw47fy7qubzt6sg5q4pfud8`
+          `http://api.sportradar.us/golf-t2/summary/pga/2019/tournaments/${tournamentID}/summary.json?api_key=xx3bxhsyztpka6y53y3563r9`
         )
         .then(fieldResponse => {
           let field = [];
@@ -25,7 +27,7 @@ router.get("/tournament-field/:tournamentID", (request, response, next) => {
               return obj.id === fieldResponse.data.field[x].id;
             });
             if (!player) {
-              console.log(fieldResponse.data.field[x]);
+              // console.log(fieldResponse.data.field[x]);
               field.push(fieldResponse.data.field[x]);
             }
             field.push(player);
@@ -39,7 +41,8 @@ router.get("/tournament-field/:tournamentID", (request, response, next) => {
         .catch(function(error) {
           // handle error
           console.log(error.message);
-        });
+        })
+    , 2000);
     })
     .catch(function(error) {
       // handle error
@@ -52,7 +55,7 @@ router.get("/leaderboard/:tournamentID", (request, response, next) => {
   console.log(tournamentID)
   axios
     .get(
-      `http://api.sportradar.us/golf-t2/leaderboard/pga/2019/tournaments/${tournamentID}/leaderboard.json?api_key=5mw47fy7qubzt6sg5q4pfud8`
+      `http://api.sportradar.us/golf-t2/leaderboard/pga/2019/tournaments/${tournamentID}/leaderboard.json?api_key=xx3bxhsyztpka6y53y3563r9`
     )
     .then(scoresResponse => {
       // console.log(scoresResponse.data);
@@ -67,7 +70,7 @@ router.get("/leaderboard/:tournamentID", (request, response, next) => {
 router.get("/schedule", (request, response, next) => {
   axios
     .get(
-      `http://api.sportradar.us/golf-t2/leaderboard/pga/2019/tournaments/schedule.json?api_key=5mw47fy7qubzt6sg5q4pfud8`
+      `http://api.sportradar.us/golf-t2/leaderboard/pga/2019/tournaments/schedule.json?api_key=xx3bxhsyztpka6y53y3563r9`
     )
     .then(scheduleResponse => {
       // console.log(scheduleResponse.data);
