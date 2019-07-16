@@ -9,7 +9,7 @@ router.get("/tournament-field/:tournamentID", (request, response, next) => {
   let tournamentID = request.params.tournamentID;
   axios
     .get(
-      `http://api.sportradar.us/golf-t2/players/wgr/2019/rankings.json?api_key=zhtx79spx9am45r3xc2w5j8p`
+      `http://api.sportradar.us/golf-t2/players/wgr/2019/rankings.json?api_key=6ptkcjfcnrt5axdr5t3xeumg`
     )
     .then(rankingsResponse => {
       console.log("rankings length", rankingsResponse.data.players.length);
@@ -17,7 +17,7 @@ router.get("/tournament-field/:tournamentID", (request, response, next) => {
       setTimeout(() =>
       axios
         .get(
-          `http://api.sportradar.us/golf-t2/summary/pga/2019/tournaments/${tournamentID}/summary.json?api_key=zhtx79spx9am45r3xc2w5j8p`
+          `http://api.sportradar.us/golf-t2/summary/pga/2019/tournaments/${tournamentID}/summary.json?api_key=6ptkcjfcnrt5axdr5t3xeumg`
         )
         .then(fieldResponse => {
           let field = [];
@@ -55,7 +55,7 @@ router.get("/leaderboard/:tournamentID", (request, response, next) => {
   console.log(tournamentID)
   axios
     .get(
-      `http://api.sportradar.us/golf-t2/leaderboard/pga/2019/tournaments/${tournamentID}/leaderboard.json?api_key=zhtx79spx9am45r3xc2w5j8p`
+      `http://api.sportradar.us/golf-t2/leaderboard/pga/2019/tournaments/${tournamentID}/leaderboard.json?api_key=6ptkcjfcnrt5axdr5t3xeumg`
     )
     .then(scoresResponse => {
       // console.log(scoresResponse.data);
@@ -70,7 +70,7 @@ router.get("/leaderboard/:tournamentID", (request, response, next) => {
 router.get("/schedule", (request, response, next) => {
   axios
     .get(
-      `http://api.sportradar.us/golf-t2/leaderboard/pga/2019/tournaments/schedule.json?api_key=zhtx79spx9am45r3xc2w5j8p`
+      `http://api.sportradar.us/golf-t2/leaderboard/pga/2019/tournaments/schedule.json?api_key=6ptkcjfcnrt5axdr5t3xeumg`
     )
     .then(scheduleResponse => {
       // console.log(scheduleResponse.data);
