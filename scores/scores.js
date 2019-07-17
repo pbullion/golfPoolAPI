@@ -1,4 +1,4 @@
-{
+module.exports = {
   id: "4524eac8-9713-43c5-a742-290d8ab434ba",
   name: "The Open Championship",
   event_type: "stroke",

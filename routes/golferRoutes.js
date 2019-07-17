@@ -1,5 +1,6 @@
 const { Router } = require("express");
 const axios = require("axios");
+const scores = require("../scores/scores.js");
 
 const router = Router();
 
@@ -51,7 +52,8 @@ router.get("/tournament-field/:tournamentID", (request, response, next) => {
 });
 
 router.get("/leaderboard/:tournamentID", (request, response, next) => {
-  let tournamentID = request.params.tournamentID;
+  // let tournamentID = request.params.tournamentID;
+  let tournamentID = "4524eac8-9713-43c5-a742-290d8ab434ba";
   console.log(tournamentID)
   axios
     .get(
@@ -66,6 +68,13 @@ router.get("/leaderboard/:tournamentID", (request, response, next) => {
       console.log(error);
     });
 });
+
+
+router.get("/leaderboard", (request, response, next) => {
+  response.send(scores);
+});
+
+
 
 router.get("/schedule", (request, response, next) => {
   axios
