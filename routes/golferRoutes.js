@@ -51,7 +51,7 @@ router.get("/tournament-field/:tournamentID", (request, response, next) => {
     });
 });
 
-router.get("/leaderboard/:tournamentID", (request, response, next) => {
+router.get("/leaderboard/theopen", (request, response, next) => {
   // let tournamentID = request.params.tournamentID;
   let tournamentID = "4524eac8-9713-43c5-a742-290d8ab434ba";
   console.log(tournamentID)
