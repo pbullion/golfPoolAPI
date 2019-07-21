@@ -4713,7 +4713,6 @@ module.exports = {
       "tied": true,
       "score": 2,
       "strokes": 144,
-      "status": "CUT",
       "rounds": [
         {
           "score": 2,
@@ -4778,7 +4777,6 @@ module.exports = {
       "tied": true,
       "score": 2,
       "strokes": 144,
-      "status": "CUT",
       "rounds": [
         {
           "score": 3,
@@ -4843,7 +4841,6 @@ module.exports = {
       "tied": true,
       "score": 2,
       "strokes": 144,
-      "status": "CUT",
       "rounds": [
         {
           "score": 0,
@@ -4908,7 +4905,6 @@ module.exports = {
       "tied": true,
       "score": 2,
       "strokes": 144,
-      "status": "CUT",
       "rounds": [
         {
           "score": 8,
@@ -4973,7 +4969,6 @@ module.exports = {
       "tied": true,
       "score": 2,
       "strokes": 144,
-      "status": "CUT",
       "rounds": [
         {
           "score": 1,
@@ -5038,7 +5033,6 @@ module.exports = {
       "tied": true,
       "score": 2,
       "strokes": 144,
-      "status": "CUT",
       "rounds": [
         {
           "score": 1,
@@ -5103,7 +5097,6 @@ module.exports = {
       "tied": true,
       "score": 2,
       "strokes": 144,
-      "status": "CUT",
       "rounds": [
         {
           "score": 4,
@@ -5168,7 +5161,6 @@ module.exports = {
       "tied": true,
       "score": 2,
       "strokes": 144,
-      "status": "CUT",
       "rounds": [
         {
           "score": 2,
@@ -5233,7 +5225,6 @@ module.exports = {
       "tied": true,
       "score": 2,
       "strokes": 144,
-      "status": "CUT",
       "rounds": [
         {
           "score": 1,
@@ -5298,7 +5289,6 @@ module.exports = {
       "tied": true,
       "score": 2,
       "strokes": 144,
-      "status": "CUT",
       "rounds": [
         {
           "score": 4,
@@ -5363,7 +5353,6 @@ module.exports = {
       "tied": true,
       "score": 2,
       "strokes": 144,
-      "status": "CUT",
       "rounds": [
         {
           "score": 2,
@@ -5428,7 +5417,6 @@ module.exports = {
       "tied": true,
       "score": 2,
       "strokes": 144,
-      "status": "CUT",
       "rounds": [
         {
           "score": -1,
@@ -5493,7 +5481,6 @@ module.exports = {
       "tied": true,
       "score": 2,
       "strokes": 144,
-      "status": "CUT",
       "rounds": [
         {
           "score": 2,
@@ -5558,7 +5545,6 @@ module.exports = {
       "tied": true,
       "score": 3,
       "strokes": 145,
-      "status": "CUT",
       "rounds": [
         {
           "score": 0,
@@ -5623,7 +5609,6 @@ module.exports = {
       "tied": true,
       "score": 3,
       "strokes": 145,
-      "status": "CUT",
       "rounds": [
         {
           "score": -1,
@@ -5688,7 +5673,6 @@ module.exports = {
       "tied": true,
       "score": 3,
       "strokes": 145,
-      "status": "CUT",
       "rounds": [
         {
           "score": 5,
@@ -5753,7 +5737,6 @@ module.exports = {
       "tied": true,
       "score": 3,
       "strokes": 145,
-      "status": "CUT",
       "rounds": [
         {
           "score": 4,
@@ -5818,7 +5801,6 @@ module.exports = {
       "tied": true,
       "score": 3,
       "strokes": 145,
-      "status": "CUT",
       "rounds": [
         {
           "score": 3,
@@ -5883,7 +5865,6 @@ module.exports = {
       "tied": true,
       "score": 3,
       "strokes": 145,
-      "status": "CUT",
       "rounds": [
         {
           "score": 3,
@@ -5948,7 +5929,6 @@ module.exports = {
       "tied": true,
       "score": 3,
       "strokes": 145,
-      "status": "CUT",
       "rounds": [
         {
           "score": 2,
@@ -6013,7 +5993,6 @@ module.exports = {
       "tied": true,
       "score": 3,
       "strokes": 145,
-      "status": "CUT",
       "rounds": [
         {
           "score": 2,
@@ -6078,7 +6057,6 @@ module.exports = {
       "tied": true,
       "score": 3,
       "strokes": 145,
-      "status": "CUT",
       "rounds": [
         {
           "score": 2,
@@ -6143,7 +6121,6 @@ module.exports = {
       "tied": true,
       "score": 3,
       "strokes": 145,
-      "status": "CUT",
       "rounds": [
         {
           "score": 3,
@@ -6208,7 +6185,6 @@ module.exports = {
       "tied": true,
       "score": 3,
       "strokes": 145,
-      "status": "CUT",
       "rounds": [
         {
           "score": 0,
@@ -6273,7 +6249,6 @@ module.exports = {
       "tied": true,
       "score": 4,
       "strokes": 146,
-      "status": "CUT",
       "rounds": [
         {
           "score": 3,
@@ -6338,7 +6313,6 @@ module.exports = {
       "tied": true,
       "score": 4,
       "strokes": 146,
-      "status": "CUT",
       "rounds": [
         {
           "score": 2,
@@ -6403,7 +6377,6 @@ module.exports = {
       "tied": true,
       "score": 4,
       "strokes": 146,
-      "status": "CUT",
       "rounds": [
         {
           "score": 3,
@@ -6468,7 +6441,6 @@ module.exports = {
       "tied": true,
       "score": 4,
       "strokes": 146,
-      "status": "CUT",
       "rounds": [
         {
           "score": 3,
@@ -6533,7 +6505,6 @@ module.exports = {
       "tied": true,
       "score": 4,
       "strokes": 146,
-      "status": "CUT",
       "rounds": [
         {
           "score": 7,
@@ -6598,7 +6569,6 @@ module.exports = {
       "tied": true,
       "score": 4,
       "strokes": 146,
-      "status": "CUT",
       "rounds": [
         {
           "score": 4,
@@ -6663,7 +6633,6 @@ module.exports = {
       "tied": true,
       "score": 4,
       "strokes": 146,
-      "status": "CUT",
       "rounds": [
         {
           "score": 4,
@@ -6728,7 +6697,6 @@ module.exports = {
       "tied": true,
       "score": 4,
       "strokes": 146,
-      "status": "CUT",
       "rounds": [
         {
           "score": 3,
@@ -6793,7 +6761,6 @@ module.exports = {
       "tied": true,
       "score": 4,
       "strokes": 146,
-      "status": "CUT",
       "rounds": [
         {
           "score": 3,
@@ -6858,7 +6825,6 @@ module.exports = {
       "tied": true,
       "score": 5,
       "strokes": 147,
-      "status": "CUT",
       "rounds": [
         {
           "score": 5,
@@ -6923,7 +6889,6 @@ module.exports = {
       "tied": true,
       "score": 5,
       "strokes": 147,
-      "status": "CUT",
       "rounds": [
         {
           "score": 0,
@@ -6988,7 +6953,6 @@ module.exports = {
       "tied": true,
       "score": 5,
       "strokes": 147,
-      "status": "CUT",
       "rounds": [
         {
           "score": 5,
@@ -7053,7 +7017,6 @@ module.exports = {
       "tied": true,
       "score": 5,
       "strokes": 147,
-      "status": "CUT",
       "rounds": [
         {
           "score": 5,
@@ -7118,7 +7081,6 @@ module.exports = {
       "tied": true,
       "score": 5,
       "strokes": 147,
-      "status": "CUT",
       "rounds": [
         {
           "score": 4,
@@ -7183,7 +7145,6 @@ module.exports = {
       "tied": true,
       "score": 5,
       "strokes": 147,
-      "status": "CUT",
       "rounds": [
         {
           "score": 5,
@@ -7248,7 +7209,6 @@ module.exports = {
       "tied": true,
       "score": 5,
       "strokes": 147,
-      "status": "CUT",
       "rounds": [
         {
           "score": 5,
@@ -7313,7 +7273,6 @@ module.exports = {
       "tied": true,
       "score": 5,
       "strokes": 147,
-      "status": "CUT",
       "rounds": [
         {
           "score": 4,
@@ -7378,7 +7337,6 @@ module.exports = {
       "tied": true,
       "score": 5,
       "strokes": 147,
-      "status": "CUT",
       "rounds": [
         {
           "score": 6,
@@ -7443,7 +7401,6 @@ module.exports = {
       "tied": true,
       "score": 5,
       "strokes": 147,
-      "status": "CUT",
       "rounds": [
         {
           "score": 3,
@@ -7508,7 +7465,6 @@ module.exports = {
       "tied": true,
       "score": 5,
       "strokes": 147,
-      "status": "CUT",
       "rounds": [
         {
           "score": 1,
@@ -7573,7 +7529,6 @@ module.exports = {
       "tied": true,
       "score": 5,
       "strokes": 147,
-      "status": "CUT",
       "rounds": [
         {
           "score": 3,
@@ -7638,7 +7593,6 @@ module.exports = {
       "tied": true,
       "score": 6,
       "strokes": 148,
-      "status": "CUT",
       "rounds": [
         {
           "score": 0,
@@ -7703,7 +7657,6 @@ module.exports = {
       "tied": true,
       "score": 6,
       "strokes": 148,
-      "status": "CUT",
       "rounds": [
         {
           "score": 7,
@@ -7768,7 +7721,6 @@ module.exports = {
       "tied": true,
       "score": 6,
       "strokes": 148,
-      "status": "CUT",
       "rounds": [
         {
           "score": 3,
@@ -7833,7 +7785,6 @@ module.exports = {
       "tied": true,
       "score": 6,
       "strokes": 148,
-      "status": "CUT",
       "rounds": [
         {
           "score": 1,
@@ -7898,7 +7849,6 @@ module.exports = {
       "tied": true,
       "score": 6,
       "strokes": 148,
-      "status": "CUT",
       "rounds": [
         {
           "score": 2,
@@ -7963,7 +7913,6 @@ module.exports = {
       "tied": true,
       "score": 6,
       "strokes": 148,
-      "status": "CUT",
       "rounds": [
         {
           "score": 5,
@@ -8028,7 +7977,6 @@ module.exports = {
       "tied": true,
       "score": 6,
       "strokes": 148,
-      "status": "CUT",
       "rounds": [
         {
           "score": 1,
@@ -8093,7 +8041,6 @@ module.exports = {
       "tied": true,
       "score": 6,
       "strokes": 148,
-      "status": "CUT",
       "rounds": [
         {
           "score": 2,
@@ -8158,7 +8105,6 @@ module.exports = {
       "tied": true,
       "score": 7,
       "strokes": 149,
-      "status": "CUT",
       "rounds": [
         {
           "score": 2,
@@ -8223,7 +8169,6 @@ module.exports = {
       "tied": true,
       "score": 7,
       "strokes": 149,
-      "status": "CUT",
       "rounds": [
         {
           "score": 2,
@@ -8288,7 +8233,6 @@ module.exports = {
       "tied": true,
       "score": 7,
       "strokes": 149,
-      "status": "CUT",
       "rounds": [
         {
           "score": 4,
@@ -8353,7 +8297,6 @@ module.exports = {
       "tied": true,
       "score": 7,
       "strokes": 149,
-      "status": "CUT",
       "rounds": [
         {
           "score": 5,
@@ -8418,7 +8361,6 @@ module.exports = {
       "tied": true,
       "score": 7,
       "strokes": 149,
-      "status": "CUT",
       "rounds": [
         {
           "score": 4,
@@ -8483,7 +8425,6 @@ module.exports = {
       "tied": true,
       "score": 7,
       "strokes": 149,
-      "status": "CUT",
       "rounds": [
         {
           "score": 2,
@@ -8548,7 +8489,6 @@ module.exports = {
       "tied": true,
       "score": 7,
       "strokes": 149,
-      "status": "CUT",
       "rounds": [
         {
           "score": 3,
@@ -8613,7 +8553,6 @@ module.exports = {
       "tied": true,
       "score": 7,
       "strokes": 149,
-      "status": "CUT",
       "rounds": [
         {
           "score": 2,
@@ -8678,7 +8617,6 @@ module.exports = {
       "tied": true,
       "score": 8,
       "strokes": 150,
-      "status": "CUT",
       "rounds": [
         {
           "score": 5,
@@ -8743,7 +8681,6 @@ module.exports = {
       "tied": true,
       "score": 8,
       "strokes": 150,
-      "status": "CUT",
       "rounds": [
         {
           "score": 6,
@@ -8808,7 +8745,6 @@ module.exports = {
       "tied": true,
       "score": 8,
       "strokes": 150,
-      "status": "CUT",
       "rounds": [
         {
           "score": 4,
@@ -8873,7 +8809,6 @@ module.exports = {
       "tied": true,
       "score": 8,
       "strokes": 150,
-      "status": "CUT",
       "rounds": [
         {
           "score": 7,
@@ -8938,7 +8873,6 @@ module.exports = {
       "tied": true,
       "score": 9,
       "strokes": 151,
-      "status": "CUT",
       "rounds": [
         {
           "score": 6,
@@ -9003,7 +8937,6 @@ module.exports = {
       "tied": true,
       "score": 9,
       "strokes": 151,
-      "status": "CUT",
       "rounds": [
         {
           "score": 7,
@@ -9068,7 +9001,6 @@ module.exports = {
       "tied": true,
       "score": 9,
       "strokes": 151,
-      "status": "CUT",
       "rounds": [
         {
           "score": 5,
@@ -9133,7 +9065,6 @@ module.exports = {
       "tied": true,
       "score": 9,
       "strokes": 151,
-      "status": "CUT",
       "rounds": [
         {
           "score": 7,
@@ -9198,7 +9129,6 @@ module.exports = {
       "tied": true,
       "score": 9,
       "strokes": 151,
-      "status": "CUT",
       "rounds": [
         {
           "score": 0,
@@ -9263,7 +9193,6 @@ module.exports = {
       "tied": true,
       "score": 9,
       "strokes": 151,
-      "status": "CUT",
       "rounds": [
         {
           "score": 5,
@@ -9328,7 +9257,6 @@ module.exports = {
       "tied": true,
       "score": 9,
       "strokes": 151,
-      "status": "CUT",
       "rounds": [
         {
           "score": 1,
@@ -9393,7 +9321,6 @@ module.exports = {
       "tied": true,
       "score": 10,
       "strokes": 152,
-      "status": "CUT",
       "rounds": [
         {
           "score": 4,
@@ -9458,7 +9385,6 @@ module.exports = {
       "tied": true,
       "score": 10,
       "strokes": 152,
-      "status": "CUT",
       "rounds": [
         {
           "score": 8,
@@ -9523,7 +9449,6 @@ module.exports = {
       "tied": true,
       "score": 10,
       "strokes": 152,
-      "status": "CUT",
       "rounds": [
         {
           "score": 2,
@@ -9588,7 +9513,6 @@ module.exports = {
       "tied": true,
       "score": 10,
       "strokes": 152,
-      "status": "CUT",
       "rounds": [
         {
           "score": 12,
@@ -9653,7 +9577,6 @@ module.exports = {
       "tied": true,
       "score": 12,
       "strokes": 154,
-      "status": "CUT",
       "rounds": [
         {
           "score": 4,
@@ -9718,7 +9641,6 @@ module.exports = {
       "tied": true,
       "score": 12,
       "strokes": 154,
-      "status": "CUT",
       "rounds": [
         {
           "score": 2,
@@ -9783,7 +9705,6 @@ module.exports = {
       "tied": true,
       "score": 12,
       "strokes": 154,
-      "status": "CUT",
       "rounds": [
         {
           "score": 7,
@@ -9848,7 +9769,6 @@ module.exports = {
       "tied": true,
       "score": 13,
       "strokes": 155,
-      "status": "CUT",
       "rounds": [
         {
           "score": 12,
@@ -9913,7 +9833,6 @@ module.exports = {
       "tied": true,
       "score": 13,
       "strokes": 155,
-      "status": "CUT",
       "rounds": [
         {
           "score": 11,
@@ -9978,7 +9897,6 @@ module.exports = {
       "tied": false,
       "score": 14,
       "strokes": 156,
-      "status": "CUT",
       "rounds": [
         {
           "score": 12,
@@ -10043,7 +9961,6 @@ module.exports = {
       "tied": false,
       "score": 27,
       "strokes": 169,
-      "status": "CUT",
       "rounds": [
         {
           "score": 20,
