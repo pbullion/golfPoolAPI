@@ -4754,6 +4754,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -4806,6 +4819,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -4858,6 +4884,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -4910,6 +4949,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -4962,6 +5014,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -5014,6 +5079,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -5066,6 +5144,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -5118,6 +5209,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -5170,6 +5274,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -5222,6 +5339,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -5274,6 +5404,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -5326,6 +5469,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -5378,6 +5534,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -5430,6 +5599,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -5482,6 +5664,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -5534,6 +5729,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -5586,6 +5794,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -5638,6 +5859,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -5690,6 +5924,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -5742,6 +5989,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -5794,6 +6054,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -5846,6 +6119,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -5898,6 +6184,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -5950,6 +6249,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -6002,6 +6314,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -6054,6 +6379,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -6106,6 +6444,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -6158,6 +6509,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -6210,6 +6574,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -6262,6 +6639,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -6314,6 +6704,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -6366,6 +6769,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -6418,6 +6834,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -6470,6 +6899,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -6522,6 +6964,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -6574,6 +7029,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -6626,6 +7094,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -6678,6 +7159,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -6730,6 +7224,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -6782,6 +7289,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -6834,6 +7354,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -6886,6 +7419,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -6938,6 +7484,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -6990,6 +7549,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -7042,6 +7614,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -7094,6 +7679,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -7146,6 +7744,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -7198,6 +7809,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -7250,6 +7874,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -7302,6 +7939,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -7354,6 +8004,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -7406,6 +8069,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -7458,6 +8134,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -7510,6 +8199,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -7562,6 +8264,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -7614,6 +8329,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -7666,6 +8394,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -7718,6 +8459,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -7770,6 +8524,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -7822,6 +8589,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -7874,6 +8654,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -7926,6 +8719,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -7978,6 +8784,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -8030,6 +8849,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -8082,6 +8914,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -8134,6 +8979,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -8186,6 +9044,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -8238,6 +9109,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -8290,6 +9174,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -8342,6 +9239,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -8394,6 +9304,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -8446,6 +9369,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -8498,6 +9434,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -8550,6 +9499,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -8602,6 +9564,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -8654,6 +9629,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -8706,6 +9694,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -8758,6 +9759,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -8810,6 +9824,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -8862,6 +9889,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -8914,6 +9954,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -8966,6 +10019,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     },
     {
@@ -9018,6 +10084,19 @@ module.exports = {
           "holes_in_one": 0,
           "sequence": 3
         },
+        {
+          "score": 0,
+          "strokes": 0,
+          "thru": 0,
+          "eagles": 0,
+          "birdies": 0,
+          "pars": 0,
+          "bogeys": 0,
+          "double_bogeys": 0,
+          "other_scores": 0,
+          "holes_in_one": 0,
+          "sequence": 4
+        }
       ]
     }
   ]
