@@ -82,8 +82,8 @@ module.exports = {
           sequence: 3
         },
         {
-          score: 1,
-          strokes: 72,
+          score: -2,
+          strokes: 69,
           thru: 18,
           eagles: 0,
           birdies: 4,
